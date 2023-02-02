@@ -17,7 +17,9 @@
 #### Backend: php8 , Laravel9 , Mysql.
 
 #### Trello link https://trello.com/b/xNLdZXRG/masterpiece
-#### wireframe link https://www.figma.com/file/T0iq8ZaCgYRGvqHCEl37NA/masterpiece?node-id=0%3A1&t=fqqJ4N7DFSeIMaOi-0
-#### mockup link https://www.figma.com/file/RGFnd8qkql018ixOmmUndi/masterpieces?t=fqqJ4N7DFSeIMaOi-0
-#### presentation file [Zahran store.pptx](https://github.com/AhmadyZahran/masterpiece/files/10476827/Zahran.store.pptx)
-#### documentation file [Zahran_documentation.docx](https://github.com/AhmadyZahran/final-project/files/10312880/Zahran_documentation.docx)
+#### Wireframe link https://www.figma.com/file/T0iq8ZaCgYRGvqHCEl37NA/masterpiece?node-id=0%3A1&t=fqqJ4N7DFSeIMaOi-0
+#### Mockup link https://www.figma.com/file/RGFnd8qkql018ixOmmUndi/masterpieces?t=fqqJ4N7DFSeIMaOi-0
+#### Presentation file [Zahran store.pptx](https://github.com/AhmadyZahran/masterpiece/files/10476827/Zahran.store.pptx)
+#### Documentation file [Zahran_documentation.docx](https://github.com/AhmadyZahran/final-project/files/10312880/Zahran_documentation.docx)
+#### Project Brief [brief.docx](https://github.com/AhmadyZahran/final-project/files/10573592/brief.docx)
+
