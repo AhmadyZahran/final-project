@@ -21,5 +21,6 @@
 #### Mockup link https://www.figma.com/file/RGFnd8qkql018ixOmmUndi/masterpieces?t=fqqJ4N7DFSeIMaOi-0
 #### Presentation file [Zahran store.pptx](https://github.com/AhmadyZahran/masterpiece/files/10476827/Zahran.store.pptx)
 #### Documentation file [Zahran_documentation.docx](https://github.com/AhmadyZahran/final-project/files/10312880/Zahran_documentation.docx)
-#### Project Brief [brief.docx](https://github.com/AhmadyZahran/final-project/files/10573592/brief.docx)
+#### Project Brief [brief.docx](https://github.com/AhmadyZahran/final-project/files/10573695/brief.docx)
+
 
